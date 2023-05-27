@@ -8,8 +8,8 @@ export default function Layout(){
         <>
         <header>
             <h1>@Contatinhos</h1>
+            <Navbar/>
         </header>
-        <Navbar/>
         <main><Outlet/></main>
         <footer><p>Copyright 2023. Todos os direitos reservados.</p></footer>
         </>

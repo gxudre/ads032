@@ -3,6 +3,7 @@ import Home from './pages/Home'
 import Novo from './pages/Novo'
 import Erro404 from './pages/Erro404'
 import Layout from './components/Layout'
+import './App.css'
 
 export default function App() {
   return (
